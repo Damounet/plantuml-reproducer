@@ -15,5 +15,5 @@ Alice <-- Bob: Another authentication Response
 test include
 
 ```plantuml
-!include toto.puml
+!include <toto.puml>
 ```
