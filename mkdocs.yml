@@ -1,0 +1,5 @@
+# How to generate documentation site
+# docker run -ti --rm -w /content -v $(pwd):/content docker.io/spotify/techdocs:latest build
+site_name: 'TEST '
+nav:
+  - Home: index.md
